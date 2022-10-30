@@ -1,0 +1,1 @@
+sbt -jvm-debug 9010 "run 9009"
