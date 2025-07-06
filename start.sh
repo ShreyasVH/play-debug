@@ -1,1 +1,1 @@
-sbt -jvm-debug 9010 "run 9009"
+sbt -jvm-debug $DEBUG_PORT "run $PORT"
